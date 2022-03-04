@@ -1,7 +1,7 @@
 # ESX-multicharacter-NoPixel3.0
 This is a NoPixel 3.0 inspired multicharacter for ESX. 
 
-# Everything you need is in the file
+Everything you need is in the file
 
 # Dependencies
 cn-polyzone
