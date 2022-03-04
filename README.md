@@ -12,7 +12,7 @@ raid_clothes (Real 3.0)
 spawnstation (Real Maps)
 storage (Real 3.0)
 
-# Must Use THIS es_extended 
+You have to use the es_extended that is in the file!!!
 
 # SQL 
 1. Run the SQL
